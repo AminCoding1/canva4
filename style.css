@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    background: black;
+  }
+  canvas {
+          border: 1px solid white;
+          background: black;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          opacity: 1;
+      }
+  
+  
